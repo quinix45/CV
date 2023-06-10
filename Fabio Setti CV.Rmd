@@ -20,7 +20,7 @@ knit: pagedown::chrome_print
 
 
 
-<i class='fas fa-download'></i> [Download a PDF of this CV](https://github.com/nstrayer/cv/raw/master/strayer_cv.pdf)
+<!-- <i class='fas fa-download'></i> [Download a PDF of this CV](https://drive.google.com/uc?export=download&id=1-H-OnrcHLW4zgY9g9BiMbcUcLXlXV9Xx)  -->
 
 
 ## Contact Info {#contact}
