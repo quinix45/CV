@@ -32,7 +32,7 @@ knit: pagedown::chrome_print
 
 ## Skills {#skills}
 
--   Psychology Research, statistical analysis, item response theory, psychometrics, data cleaning.
+-   Psychology research, statistical analysis, item response theory (IRT), psychometrics, data management and cleaning.
 
 -   Experienced in R, Python, LaTeX, SPSS, office package
 
