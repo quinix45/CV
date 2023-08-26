@@ -23,7 +23,7 @@ knit: pagedown::chrome_print
 <i class='fas fa-download'></i> [Download a PDF of this CV](https://github.com/quinix45/CV/raw/main/Fabio%20Setti%20CV.pdf)
 
 
-## Contact Info {#contact}
+## Contact Info {#contact} 
 
 -   <i class="fa fa-envelope"></i> [fsetti\@fordham.edu](or%20%5Bfsetti@fordham.edu%5D(mailto:fsetti@fordham.edu)%7B.email%7D)
 -   <i class="fa fa-github"></i> [github](https://github.com/quinix45)
@@ -34,7 +34,7 @@ knit: pagedown::chrome_print
 
 -   Psychology research, statistical analysis, item response theory (IRT), psychometrics, data management and cleaning.
 
--   Experienced in R, Python, LaTeX, SPSS, office package.
+-   Experienced in R, Python, LaTeX, HTML, SPSS, Microsoft Office.
 
 ## Disclaimer {#disclaimer}
 
@@ -100,7 +100,7 @@ Summer 2023
 
 ## Professional Experience {data-icon="suitcase"}
 
-### Human Resources Assistant internship
+### Human Resources Assistant Internship
 
 Uomo e Impresa s.r.l.
 
