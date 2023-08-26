@@ -25,7 +25,7 @@ knit: pagedown::chrome_print
 
 ## Contact Info {#contact} 
 
--   <i class="fa fa-envelope"></i> [fsetti\@fordham.edu](or%20%5Bfsetti@fordham.edu%5D(mailto:fsetti@fordham.edu)%7B.email%7D)
+-   <i class="fa fa-envelope"></i> [fsetti\@fordham.edu](mailto:fsetti@fordham.edu)
 -   <i class="fa fa-github"></i> [github](https://github.com/quinix45)
 -   <i class="fa fa-linkedin"></i> [linkedin](https://www.linkedin.com/in/fabio-setti-0a0a85236/)
 -   <i class="fa fa-phone"></i> +1 332-209-8249
