@@ -1,2 +1,2 @@
 # CV
-Repository for an html CV that is easy to update.
+Repository for personal html CV: https://raw.githack.com/quinix45/CV/main/Fabio-Setti-CV.html
