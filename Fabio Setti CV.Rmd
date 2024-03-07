@@ -25,6 +25,7 @@ knit: pagedown::chrome_print
 
 ## Contact Info {#contact} 
 
+-   <i class="fa fa-globe"></i> [Personal website](https://fabio-setti.netlify.app) 
 -   <i class="fa fa-envelope"></i> [fsetti\@fordham.edu](mailto:fsetti@fordham.edu)
 -   <i class="fa fa-github"></i> [github](https://github.com/quinix45)
 -   <i class="fa fa-linkedin"></i> [linkedin](https://www.linkedin.com/in/fabio-setti-0a0a85236/)
@@ -32,7 +33,7 @@ knit: pagedown::chrome_print
 
 ## Skills {#skills}
 
--   Psychology research, statistical analysis, item response theory (IRT), psychometrics, data management and cleaning.
+-   Psychology research, statistical analysis, item response theory (IRT), psychometrics, Bayesian statistics, data management and cleaning.
 
 -   Experienced in R, Python, LaTeX, HTML, SPSS, Microsoft Office.
 
@@ -162,7 +163,7 @@ Spring 2023
 ## Publications and Poster Presentations {style="text-align: left"}
 
 ::: {style="padding-left: 0.26in"}
-> Setti, F., & Kahn, J. H. (2023). Evaluating how facets of openness to experience predict music preference. *Musicae Scientiae* (online first).
+> Setti, F., & Kahn, J. H. (2024). Evaluating how facets of openness to experience predict music preference. *Musicae Scientiae*, *28*(1), 143–158. https://doi.org/10.1177/10298649231174751
 >
 > Setti, F., Kahn, J. (2022, Aprl 21-23). Influence of Facets of Openness to Experience on Music Preference [poster presentation]. Midwestern Psychological Association Annual conference, Chicago, IL, United States.
 :::
