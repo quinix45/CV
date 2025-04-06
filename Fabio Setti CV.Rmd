@@ -18,14 +18,12 @@ knit: pagedown::chrome_print
 
 ![](images/GitHub-01.jpg){width="400"}
 
-
-
 <i class='fas fa-download'></i> [Download a PDF of this CV](https://github.com/quinix45/CV/raw/main/Fabio%20Setti%20CV.pdf)
 
+## Contact Info {#contact}
 
-## Contact Info {#contact} 
+<!-- -   <i class="fa fa-globe"></i> [Personal website](https://fabio-setti.netlify.app)  -->
 
--   <i class="fa fa-globe"></i> [Personal website](https://fabio-setti.netlify.app) 
 -   <i class="fa fa-envelope"></i> [fsetti\@fordham.edu](mailto:fsetti@fordham.edu)
 -   <i class="fa fa-github"></i> [github](https://github.com/quinix45)
 -   <i class="fa fa-linkedin"></i> [linkedin](https://www.linkedin.com/in/fabio-setti-0a0a85236/)
@@ -33,9 +31,9 @@ knit: pagedown::chrome_print
 
 ## Skills {#skills}
 
--   Psychology research, statistical analysis, item response theory (IRT), psychometrics, Bayesian statistics, data management and cleaning.
+-   Psychology research, statistical analysis, item response theory (IRT), psychometrics, Bayesian statistics, Simulation designs, data management and cleaning.
 
--   Experienced in R, Python, LaTeX, HTML, SPSS, Microsoft Office.
+-   Experienced in R, Python, LaTeX, html, CSS.
 
 ## Disclaimer {#disclaimer}
 
@@ -47,13 +45,13 @@ Last updated on `r Sys.Date()`.
 
 ### PhD student in Psychometrics and Quantitative Psychology at Fordham University
 
-I am currently enrolled in the Psychometrics and Quantitative Psychology (PQP) PhD program at Fordham University. I love doing both applied and methodological research. I mostly focus on **psychometric measurement** and the implementation of **appropriate statistical** **methods** in the **field of psychology**.
+I am enrolled in the Psychometrics and Quantitative Psychology (PQP) PhD program at Fordham University. I love doing both applied and methodological research! I mainly focus on **psychometric measurement** and the implementation of **appropriate statistical** **methods** in the **field of psychology**.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
 ### Universita' degli Studi di Padova
 
-B.S. in psychological science
+B.S. in Psychological Science
 
 Padova, Italy
 
@@ -67,8 +65,6 @@ Bloomington, IL
 
 2020 - 2022
 
-Thesis: The influene of the facets of opennes to experience on music preference
-
 ### Fordham University (in progress)
 
 PhD in Psychometrics and Quantitative Psychology
@@ -77,27 +73,17 @@ New York, NY
 
 2022 - Today
 
-## Research Experience {data-icon="laptop"}
-
-### Master's Thesis Research
-
-Illinois State University
-
-Bloomington, IL
-
-2021 - 2022
-
--   Cunducted independent data collection and data analysis for Master's thesis.
+## Research Positions {data-icon="laptop"}
 
 ### Research Assistant
 
 Northwestern University
 
-Evanstone, IL
+Evanston, IL
 
 Summer 2023
 
--   Worked on validation of SCENTinel, a quick, self-administered, test to screen for abnormal olfaction.
+-   Worked on validating SCENTinel, a quick, self-administered, test to screen for abnormal olfaction. (**Supervisor:** Emily Ho)
 
 ## Professional Experience {data-icon="suitcase"}
 
@@ -117,7 +103,7 @@ Treviso, Italy
 • Basic data analysis
 :::
 
-### Editorial Assistant for Innovation in Science teacher Education (ISTE)
+### Editorial Assistant for Innovation in Science Teacher Education (ISTE)
 
 Center for Mathematics, Science, and Technology
 
@@ -130,12 +116,12 @@ Bloomington, IL
 
 • Checking that submitted articles conform to APA guidelines
 
-• Uploading publication ready articles to the WordPress ISTE website and making sure that formatting follows APA guidelines
+• Uploading publication-ready articles to the WordPress ISTE website and making sure that formatting follows APA guidelines
 :::
 
 ## Teaching Experience {data-icon="chalkboard-teacher"}
 
-### Lab Instructor for PSYC 2000 (intro to statistics)
+### Lab Instructor for PSYC 2000 (Intro to Statistics)
 
 Fordham University
 
@@ -143,8 +129,35 @@ New York, NY
 
 Fall 2022 - Spring 2023
 
--   Teaching students practical examples of how statistics are applied in psychology.
--   Teaching student to analyze data with SPSS.
+### Lab Instructor for PSYC 2401 (Memory Lab)
+
+Fordham University
+
+New York, NY
+
+Fall 2023 - Spring 2024
+
+-   [html slides](https://github.com/quinix45/PSYC_2401_Memory_Lab_Slides)
+
+### Lab Instructor for PSYC 6802 (Intro to Psych Statistics, Graduate)
+
+Fordham University
+
+New York, NY
+
+Fall 2024
+
+### Lab Instructor for PSYC 7804 (Regression with Lab, Graduate)
+
+Fordham University
+
+New York, NY
+
+Spring 2025
+
+-   [Lab website](https://quinix45.github.io/PSYC-7804-Regression-Lab-Slides/)
+
+## Workshops {data-icon="cogs"}
 
 ### Intro to R Workshop
 
@@ -155,19 +168,29 @@ New York, NY
 Spring 2023
 
 ::: concise
-• Preparation of materials for 2 of the 4 part R introduction workshop (slides and practice exercises).
-
-• Presentation of *data manipulation in R* (part 2) and *plotting in R* (part 3).
+The workshop aimed at introducing the basics of the R programming languageand data cleaning, data visualization, and fundamental statistical analyses to graduate students at Fordham University.
 :::
 
-## Publications and Poster Presentations {style="text-align: left"}
+### Undergraduate R Workshop (Part 1)
+
+Fordham University
+
+New York, NY
+
+Spring 2024
+
+::: concise
+A workshop for undergraduate Psychology students at Fordham University aimed to introduce the R programming language and some of its functionalities for psychological research.
+
+-   [workshop slides](https://raw.githack.com/quinix45/Undergraduate-R-Workshop/main/Presetnation%20files/Undergraduate%20R%20workshop.html#/title-slide)
+:::
+
+## Publications and Presentations {style="text-align: left"}
 
 ::: {style="padding-left: 0.26in"}
-> Setti, F., & Kahn, J. H. (2024). Evaluating how facets of openness to experience predict music preference. *Musicae Scientiae*, *28*(1), 143–158. https://doi.org/10.1177/10298649231174751
+> Setti, F., & Feuerstahler, L. M. (2024, July 16-19). Bayesian model averaging of (a)symmetric IRT models in small samples. In J. Verkuilen (chair) & C. Falk (discussant), *Asymmetric Item Response Models* [Symposium]. IMPS: Annual conference of the Psychometric Society, Prague, CZ.
 >
-> Setti, F., Kahn, J. (2022, Aprl 21-23). Influence of Facets of Openness to Experience on Music Preference [poster presentation]. Midwestern Psychological Association Annual conference, Chicago, IL, United States.
+> Setti, F., & Kahn, J. H. (2024). Evaluating how facets of openness to experience predict music preference. *Musicae Scientiae*, *28*(1), 143–158. <https://doi.org/10.1177/10298649231174751>
+>
+> Setti, F., Kahn, J. (2022, April 21-23). Influence of Facets of Openness to Experience on Music Preference [poster presentation]. Midwestern Psychological Association Annual Conference, Chicago, IL, United States.
 :::
-
-
-
-
